@@ -157,7 +157,7 @@ Listening and serving HTTP on :8080
 
 ---
 
-# 🚀 Future Improvements (Optional)
+# 🚀 Future Improvements
 
 - Add JWT authentication  
 - Add users and comments  
